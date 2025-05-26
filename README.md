@@ -20,9 +20,9 @@ When I'm not coding, you can find me:
 - 📺 Watching anime (always open for recommendations!)
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn](link)
-- Email: your.email@example.com
-- Twitter: [@yourhandle](link)
+- LinkedIn: Fauzan Muflih Hidayat(https://www.linkedin.com/in/fauzan-muflih-hidayat-659b89367/)
+- Email: fauzanmuflihhidayatl@gmail.com
+- Twitter: [@zan3detta](https://x.com/zan3detta)
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
