@@ -28,6 +28,7 @@ When I'm not coding, you can find me:
 - 📖 Reading books (especially fantasy and sci-fi)
 - 🎮 Playing games (RPGs and first person shooter games are my favorites)
 - 📺 Watching anime (always open for recommendations!)
+- 🎵 Listening music (my chemical romance addiction)
 
 ## 📈 GitHub Stats
 
