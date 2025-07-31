@@ -19,6 +19,21 @@ When I'm not coding, you can find me:
 - 🎮 Playing games (RPGs and first person shooter games are my favorites)
 - 📺 Watching anime (always open for recommendations!)
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ryzennth&theme=tokyonight&hide_border=true" height="220" alt="GitHub Streak" />
+</div>
+
+
+## 🎵 Spotify Vibes
+
+<div align="center">
+  <a href="https://open.spotify.com/user/xmyth">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnuvqkqyzczyach445reqrkuhe&count=1" alt="Spotify Recently Played" />
+  </a>
+</div>
+
 ## 📫 Get in Touch
 - LinkedIn: Fauzan Muflih Hidayat(https://www.linkedin.com/in/fauzan-muflih-hidayat-659b89367/)
 - Email: fauzanmuflihhidayatl@gmail.com
