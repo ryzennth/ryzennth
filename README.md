@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves creating 
 
 ## 🎯 My Projects
 Here are some of my notable projects:
-- [Project 1](link) - A brief description
+- [Blog](https://github.com/ryzennth/laravel-oauth) - Sebuah Platform untuk membaca, dan membuat artikel yang berisi update update terbaru di dunia!
 - [Project 2](link) - A brief description
 - [Project 3](link) - A brief description
 
