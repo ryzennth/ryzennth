@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/7t8_9Ct8pWkAAAAd/neon-genesis-evangelion-shinji-ikari.gif" alt="gif" width="600"/>
+  <img src="https://media1.tenor.com/m/7t8_9Ct8pWkAAAAd/neon-genesis-evangelion-shinji-ikari.gif" alt="gif" width="400"/>
 </div>
 
 # 👋 Hello, I'm Fauzan Muflih Hidayat!
