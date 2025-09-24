@@ -46,7 +46,7 @@ When I'm not coding, you can find me:
 
 <div align="center">
   <a href="https://open.spotify.com/user/xmyth">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnuvqkqyzczyach445reqrkuhe&count=1" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnuvqkqyzczyach445reqrkuhe&count=1" alt="Spotify Recently Played" width="495" />
   </a>
 </div>
 
