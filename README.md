@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves creating 
 ## 🎯 My Projects
 Here are some of my notable projects:
 - [Blog](https://github.com/ryzennth/laravel-oauth) - Sebuah Platform untuk membaca, dan membuat artikel yang berisi update update terbaru di dunia!
-- [Project 2](link) - A brief description
+- [Husbuseum](https://husbuseum.vercel.app/) - Koleksi foto-foto husbu tampan dan menggoda
 - [Project 3](link) - A brief description
 
 ## 📚 Hobbies & Interests
@@ -51,7 +51,7 @@ When I'm not coding, you can find me:
 </div>
 
 ## 📫 Get in Touch
-- LinkedIn: Fauzan Muflih Hidayat(https://www.linkedin.com/in/fauzan-muflih-hidayat-659b89367/)
+- LinkedIn: [Fauzan Muflih Hidayat](https://www.linkedin.com/in/fauzan-muflih-hidayat-659b89367/)
 - Email: fauzanmuflihhidayatl@gmail.com
 - Twitter: [@zan3detta](https://x.com/zan3detta)
 
@@ -59,4 +59,4 @@ When I'm not coding, you can find me:
 
 ---
 
-⭐️ From Fauzan(https://github.com/ryzennth)
+⭐️ From [Fauzan](https://github.com/ryzennth)
