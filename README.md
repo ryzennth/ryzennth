@@ -37,6 +37,7 @@ When I'm not coding, you can find me:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ryzennth&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Github Stats" width="495"/></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryzennth&theme=tokyonight&hide_border=true" alt="Github Streak" width="495"/></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzennth&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Most used language" width="495"/>
 </div>
 
